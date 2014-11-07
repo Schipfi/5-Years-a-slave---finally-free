@@ -1,0 +1,126 @@
+<div class="row">
+	<div class="col-md-4">
+		<h1>Panels</h1>
+		<hr />
+		<div class="panel panel-default">
+  			<div class="panel-heading">
+    			<h3 class="panel-title">Panel title</h3>
+  			</div>
+  			<div class="panel-body">
+    			This is a default panel body element
+  			</div>
+  			<div class="panel-footer">
+  				Panel footer
+  			</div>
+		</div>
+
+		<h3>Available panel variations</h3>
+	<div class="panel panel-primary"><div class="panel-heading">-primary</div></div>
+	<div class="panel panel-success"><div class="panel-heading">-success</div></div>
+	<div class="panel panel-info"><div class="panel-heading">-info</div></div>
+	<div class="panel panel-warning"><div class="panel-heading">-warning</div></div>
+	<div class="panel panel-danger"><div class="panel-heading">-danger</div></div>
+	</div>
+
+	<div class="col-md-4">
+		<h1>Code</h1>
+		<hr />
+		<code>
+			using System;<br />
+			using System.Collections.Generic;<br />
+			using System.Data;<br />
+			using System.Globalization;<br />
+			using System.Linq;<br />
+			using System.Text;<br />
+			using System.Windows;<br />
+			using System.Windows.Controls;<br />
+			using System.Windows.Data;<br />
+			using System.Windows.Documents;<br />
+			using System.Windows.Input;<br />
+			using System.Windows.Media;<br />
+			using System.Windows.Media.Imaging;<br />
+			using System.Windows.Shapes;
+		</code>
+	</div>
+	<div class="col-md-4">
+		<h1>Glyphicons</h1>
+		<hr />
+		<h1>
+		<span class="glyphicon glyphicon-refresh"></span>
+		<span class="glyphicon glyphicon-lock"></span>
+		<span class="glyphicon glyphicon-volume-off"></span><br />
+		<span class="glyphicon glyphicon-headphones"></span>
+		<span class="glyphicon glyphicon-book"></span>
+		<span class="glyphicon glyphicon-flag"></span>
+		</h1>
+	</div>
+	<div class="col-md-4">
+		<h1>Buttons</h1>
+		<hr />
+		<h4>Normale Buttons</h4>
+		<button type="button" class="btn btn-default btn-lg">
+			<span class="glyphicon glyphicon-arrow-right"></span> Absenden
+		</button>
+		<br /><br />
+		<button type="button" class="btn btn-default btn-md">
+			<span class="glyphicon glyphicon-arrow-right"></span> Absenden
+		</button>
+		<br /><br />
+		<button type="button" class="btn btn-default btn-sm">
+			<span class="glyphicon glyphicon-arrow-right"></span> Absenden
+		</button>
+		<br /><br />
+		<h4>Dropdowns</h4>
+		<div class="dropdown">
+			<button class="btn btn-default dropdown-toggle" type="button" id="dropdown1" data-toggle="dropdown">
+				Dropdown <span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dropdown1">
+				<li role="presentation" class="dropdown-header">Header 1</li>
+				<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Option 1</a></li>
+				<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Option 2</a></li>
+				<li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Deaktivierte Option</a></li>
+				<li role="presentation" class="divider"></li>
+				<li role="presentation" class="dropdown-header">Header 2</li>
+				<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Abgetrennte Option</a></li>
+			</ul>
+		</div>
+		<br />
+		<h4>Gruppen</h4>
+			<div class="btn-group">
+				<button type="button" class="btn btn-default">Links</button>
+				<button type="button" class="btn btn-default">Mitte</button>
+				<button type="button" class="btn btn-default">Rechts</button>
+			</div>
+			<br /><br />
+			<div class="btn-group btn-group-lg">
+				<button type="button" class="btn btn-default">Links</button>
+				<button type="button" class="btn btn-default">Mitte</button>
+				<button type="button" class="btn btn-default">Rechts</button>
+			</div>
+			<br /><br />
+			<div class="btn-group btn-group-md">
+				<button type="button" class="btn btn-default">Links</button>
+				<button type="button" class="btn btn-default">Mitte</button>
+				<button type="button" class="btn btn-default">Rechts</button>
+			</div>
+			<br /><br />
+			<div class="btn-group btn-group-sm">
+				<button type="button" class="btn btn-default">Links</button>
+				<button type="button" class="btn btn-default">Mitte</button>
+				<button type="button" class="btn btn-default">Rechts</button>
+			</div>
+			<br /><br />
+			<div class="btn-toolbar" role="toolbar">
+				<div class="btn-group">
+					<button type="button" class="btn btn-default">Erste Seite</button>
+					<button type="button" class="btn btn-default">Seite zurück</button>
+				</div>
+				<div class="btn-group">
+					<button type="button" class="btn btn-default">1</button>
+					<button type="button" class="btn btn-default">2</button>
+					<button type="button" class="btn btn-default">3</button>
+				</div>
+			</div>
+	</div>
+</div>

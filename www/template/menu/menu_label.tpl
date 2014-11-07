@@ -1,0 +1,1 @@
+<li class="navbar-text"><?php echo $name; ?></li>

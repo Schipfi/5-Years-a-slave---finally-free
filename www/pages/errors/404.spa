@@ -1,0 +1,10 @@
+<div class="row">
+	<div class="col-md-12">
+		<h1>404 - File Not Found</h1>
+		<hr />
+		<p>
+			The page you requested could not be found.<br />
+			It may have been moved or deleted.
+		</p>
+	</div>
+</div>

@@ -1,0 +1,1 @@
+<li class="<?php echo $key . isActive($key); ?>"><a href="<?php if($key != 'index') echo $key; else echo '.'; ?>"><?php echo $name; ?></a></li>

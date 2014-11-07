@@ -1,0 +1,47 @@
+<div class="row">
+	<div class="col-md-12">
+		<h1>Eventgalerie</h1>
+		<hr />
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-2">
+		<div class="panel panel-info">
+  			<div class="panel-heading">
+    			<h3 class="panel-title"><span class="glyphicon glyphicon-info-sign"></span> Info</h3>
+  			</div>
+  			<div class="panel-body">
+    			Maybe short info text or something like that...
+  			</div>
+		</div>
+	</div>
+
+	<div class="col-md-5">
+		<div class="panel panel-default">
+  			<div class="panel-heading">
+    			<h3 class="panel-title">Flugplatzbesichtigung</h3>
+  			</div>
+  			<div class="panel-body">
+  				Nach einer kurzen Unterweisung in die Flugnavigation und Beendigung der Flugplatzführung darf jeder Schüler einen ca. 15 Minütigen Rundflug antreten. <a  href="#">Mehr erfahren »</a>
+  			</div>
+  			<div class="panel-footer">
+  				<span class="glyphicon glyphicon-calendar"></span> 2. Juli 2015 <span class="glyphicon glyphicon-time"></span> 11:00h <span class="glyphicon glyphicon-map-marker"></span> <a href="#">Flugplatz Zell am See</a>
+  			</div>
+		</div>
+	</div>
+
+	<div class="col-md-5">
+		<div class="panel panel-default">
+  			<div class="panel-heading">
+    			<h3 class="panel-title">Panel title</h3>
+  			</div>
+  			<div class="panel-body">
+    			This is a default panel body element
+  			</div>
+  			<div class="panel-footer">
+  				Panel footer
+  			</div>
+		</div>
+	</div>
+</div>

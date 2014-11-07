@@ -1,0 +1,13 @@
+DirectoryIndex none
+Options -Indexes
+DirectorySlash Off
+
+AddType text/html .spa
+AddType application/x-httpd-php .tpa
+AddType application/x-httpd-php .dpa
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ handler.php?page=$1 [L,QSA]
+RewriteRule ^(.*)/$ handler.php?page=$1 [L,QSA]

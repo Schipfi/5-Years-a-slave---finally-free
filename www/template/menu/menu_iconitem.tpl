@@ -1,0 +1,1 @@
+<li class="<?php echo $key . isActive($key); ?>"><a href="<?php if($key != 'index') echo $key; else echo '.'; ?>"><span class="menuglyph glyphicon glyphicon-<?php echo $icon; ?>"></span><?php echo $name; ?></a></li>

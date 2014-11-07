@@ -1,0 +1,73 @@
+<div class="row">
+	<div class="col-md-6 col-sm-12 col-xs-12">
+		<h1>Login</h1>
+		<hr />
+		<form role="form">
+			<div class="form-group">
+				<label for="email">E-Mail-Adresse</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+					<span class="glyphicon glyphicon-envelope"></span></div>
+					<input type="email" class="form-control" id="email" placeholder="mail@example.org">
+				</div>
+			</div>
+			<div class="form-group">
+			    <label for="password">Passwort</label>
+			    <div class="input-group">
+			    	<div class="input-group-addon">
+			    		<span class="glyphicon glyphicon-lock"></span>
+			    	</div>
+			    	<input type="password" class="form-control" id="password" placeholder="Passwort">
+			    </div>
+			</div>
+			<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-log-in"></span><span class="btn-description">Einloggen</span></button>
+		</form>
+	</div>
+
+	<div class="col-md-6 col-sm-12 col-xs-12">
+		<h1>Registrierung</h1>
+		<hr />
+		<form role="form">
+			<div class="form-group">
+				<label for="key">Registrierungscode</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<span class="glyphicon glyphicon-asterisk"></span>
+					</div>
+					<input type="text" class="form-control" id="key" placeholder="12345678">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="email">E-Mail-Adresse</label>
+				<div class="input-group">
+					<div class="input-group-addon">
+						<span class="glyphicon glyphicon-envelope"></span>
+					</div>
+					<input type="email" class="form-control" id="email" placeholder="mail@example.org">
+				</div>
+			</div>
+			<div class="">
+				<label for="password">Passwort</label>
+				<br />
+				<div class="col-md-6 col-sm-12 col-xs-12 input-group">
+					<div class="input-group-addon">
+						<span class="glyphicon glyphicon-lock"></span>
+					</div>
+						<input type="password" class="form-control tbpass pw" id="password" placeholder="Passwort">
+					</div>
+					<div class="col-md-6 col-md-12 col-xs-12 input-group">
+					<div class="input-group-addon">
+						<span class="glyphicon glyphicon-retweet"></span>
+					</div>
+					
+						<input type="password" class="form-control tbpass pw" id="repeat" placeholder="Passwort wiederholen">
+					</div>
+			</div>
+			<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-ok-circle"></span><span class="btn-description">Registrierung</span></button>
+		</form>
+		<br /><br />
+		<div class="alert alert-info" role="alert">
+			<span class="glyphicon glyphicon-info-sign"></span>Deinen <strong>Registrierungscode</strong> erhältst du von deinem <strong>Klassenvorstand</strong>!
+		</div>
+	</div>
+</div>

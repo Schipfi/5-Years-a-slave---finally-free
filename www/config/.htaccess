@@ -1,0 +1,4 @@
+Order deny,allow
+Deny from all
+
+AddType application/x-httpd-php .cfg
