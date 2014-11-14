@@ -141,3 +141,13 @@ code
   border-color: black !important;
   font-size: 13pt;
 }
+
+#navigation
+{
+	opacity: 0.8;
+}
+
+#navigation:hover
+{
+	opacity: 1;
+}
