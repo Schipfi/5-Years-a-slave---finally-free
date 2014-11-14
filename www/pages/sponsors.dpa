@@ -1,8 +1,27 @@
 <?php
 	$images = scandir(IMG_DIR . 'sponsors');
+	$count = 0;
 
 	foreach($images as $image)
 	{
-		echo '<img src="img/sponsors/' . $image . '" alt="Sponsor" width="250px" />';
+		if($image != '.' && $image != '..')
+		{
+			if($count == 0)
+			{
+				echo '<div class="row">';
+			}
+			
+			echo '<div class="col-md-4">';
+			echo '<img src="img/sponsors/' . $image . '" alt="Sponsor" style="max-width:300px; margin-bottom: 20px" />';
+			echo '</div>';
+			
+			if($count == 2)
+			{
+				echo '</div>';
+				$count = 0;
+			}
+			else 
+				$count++;
+		}
 	}
 ?>
