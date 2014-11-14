@@ -25,7 +25,7 @@
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="stylesheet" href="css/bootstrap.css" />
 		<link rel="stylesheet" href="css/fam.css" />
-		<title>Eventmanager</title>
+		<title>5 Years a Slave</title>
 	</head>
 	<body>
 		<nav id="navigation" class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -35,7 +35,7 @@
 						<span class="sr-only">Navigation umschalten</span>
 						<span class="glyphicon glyphicon-list"></span>
 					</button>
-					<a class="navbar-brand" href="."><span class="logo glyphicon glyphicon-calendar"></span> Eventmanager</a>
+					<a class="navbar-brand" href="."><span class="logo glyphicon glyphicon-glass"></span> 5 Years a Slave - Finally Free</a>
 				</div>
 
 				<div id="topnav" class="collapse navbar-collapse">
@@ -58,7 +58,7 @@
 		</div>
 		<div id="loader" style="display: none">
 				<img src="img/loading.svg" alt="Loading..." />
-				<div class="slow" style="display: none">This might take a moment...</div>
+				<div class="slow" style="display: none">Einen Moment bitt.e..</div>
 		</div>
 
 		<nav id="footer" class="navbar navbar-default navbar-fixed-bottom" role="navigation">

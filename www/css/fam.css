@@ -23,6 +23,18 @@
 	font-family: Ubuntu;
 }
 
+body
+{
+	background-image: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+hr
+{
+	color: #ffffff;
+}
+
 .glyphicon
 {
 	cursor: default;
@@ -120,4 +132,12 @@ code
 .pw
 {
 	width: 49%;
+}
+
+
+.panel-default > .panel-heading {
+  color: #f5f5f5;
+  background-color: #714437;
+  border-color: black !important;
+  font-size: 13pt;
 }

@@ -1,0 +1,30 @@
+<div class="row">
+	<div class="col-md-12">
+	</div>
+</div>
+
+<div class="row">
+  <div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading"><h3 class="panel-title"><span class="glyphicon glyphicon-time"></span> Ablauf</h3></div>
+
+    <!-- Table -->
+    <table class="table">
+
+      <tr>
+        <td style="width: 100px;">20:00h</td>
+        <td>Einlass</td>
+      </tr>
+
+      <tr>
+        <td>21:30h</td>
+        <td>Offizielle Eröffnung und Polonaise</td>
+      </tr>
+
+      <tr>
+        <td>23:00h</td>
+        <td>nix</td>
+      </tr>
+    </table>
+  </div>
+</div>
