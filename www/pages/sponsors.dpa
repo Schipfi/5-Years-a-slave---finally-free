@@ -1,0 +1,8 @@
+<?php
+	$images = scandir(IMG_DIR . 'sponsors');
+
+	foreach($images as $image)
+	{
+		echo '<img src="img/sponsors/' . $image . '" alt="Sponsor" width="250px" />';
+	}
+?>

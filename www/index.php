@@ -58,7 +58,7 @@
 		</div>
 		<div id="loader" style="display: none">
 				<img src="img/loading.svg" alt="Loading..." />
-				<div class="slow" style="display: none">Einen Moment bitte...</div>
+				<div class="slow" style="display: none">Einen Moment bitt.e..</div>
 		</div>
 
 		<nav id="footer" class="navbar navbar-default navbar-fixed-bottom" role="navigation">
