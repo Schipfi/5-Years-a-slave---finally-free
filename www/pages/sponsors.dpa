@@ -1,4 +1,18 @@
+
+<script type="text/javascript" src="js/masonry.pkgd.js">
+$(document).ready(function() {
+
+$container = $('#container');
+$container.masonry({
+    itemSelector: '.item'
+});
+
+});
+</script>
+
+
 <?php
+	echo '<div class="container">';
 	$images = scandir(IMG_DIR . 'sponsors');
 	$count = 0;
 
@@ -6,22 +20,25 @@
 	{
 		if($image != '.' && $image != '..')
 		{
-			if($count == 0)
-			{
-				echo '<div class="row">';
-			}
+			//if($count == 0)
+			//{
+			//	echo '<div class="row">';
+			//}
 			
-			echo '<div class="col-md-4">';
-			echo '<img src="img/sponsors/' . $image . '" alt="Sponsor" style="max-width:300px; margin-bottom: 20px" />';
-			echo '</div>';
+			//echo '<div class="col-md-4">';
+			echo '<div class="item"><img src="img/sponsors/' . $image . '" alt="Sponsor" /></div>
+			';
+			//echo '</div>';
 			
-			if($count == 2)
-			{
-				echo '</div>';
-				$count = 0;
-			}
-			else 
-				$count++;
+			//if($count == 2)
+			//{
+			//echo '</div>';
+			//echo '<div id="container" class="js-masonry" data-masonry-options={ "columnWidth": 320, "itemSelector": ".item" }>';
+			//$count = 0;
+			//}
+			//else 
+			//	$count++;
 		}
 	}
+	echo '</div>'
 ?>

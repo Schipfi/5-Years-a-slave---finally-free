@@ -4,9 +4,9 @@
 </div>
 
 <div class="row">
-  <div class="panel panel-default">
+  <div class="panel panel-default timetable">
     <!-- Default panel contents -->
-    <div class="panel-heading"><h3 class="panel-title"><span class="glyphicon glyphicon-time"></span> Ablauf</h3></div>
+    <div class="panel-heading timetable-head"><h3 class="panel-title"><span class="glyphicon glyphicon-time"></span> Ablauf</h3></div>
 
     <!-- Table -->
     <table class="table">

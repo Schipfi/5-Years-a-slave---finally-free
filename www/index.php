@@ -57,8 +57,8 @@
 			<?php require_once(PAGES_DIR . 'handler.php'); ?>
 		</div>
 		<div id="loader" style="display: none">
-				<img src="img/loading.svg" alt="Loading..." />
-				<div class="slow" style="display: none">Einen Moment bitt.e..</div>
+				<img src="./img/loading.svg" border="0" />
+				<div class="slow" style="display: none">Einen Moment bitte...</div>
 		</div>
 
 		<nav id="footer" class="navbar navbar-default navbar-fixed-bottom" role="navigation">

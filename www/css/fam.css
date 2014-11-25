@@ -30,11 +30,6 @@ body
 	background-attachment: fixed;
 }
 
-hr
-{
-	color: #ffffff;
-}
-
 .glyphicon
 {
 	cursor: default;
@@ -150,4 +145,92 @@ code
 #navigation:hover
 {
 	opacity: 1;
+}
+
+hr
+{
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #515151 -moz-use-text-color #515151;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+
+.item img {
+  display: block;
+  width: 100%;
+}
+
+.item {
+    background-color: gray;
+    width: 250px;
+    float: left;
+}
+
+.pupil
+{
+	width: -60px !important;
+}
+
+.pupil img
+{
+	width: 44%;
+	max-width:44%;
+	height:auto;
+	margin: 5px;
+	text-align: center;
+	text-align: center;
+}
+
+.panel-default
+{
+	background: rgba(46, 51, 56, 0.1)!important;
+	border: transparent;
+	box-shadow: none;
+}
+
+.timetable
+{
+	background: rgba(46, 51, 56, 0.2)!important;
+	border: transparent;
+	box-shadow: none;
+	font-size: 14pt;
+	font-weight: lighter;
+}
+
+.timetable-head
+{
+	background: rgba(71, 44, 37, 0.2)!important;
+	border: transparent;
+	box-shadow: none;
+}
+
+p.css-vertical-text {
+	color:#333;
+	border:0px solid red;
+	writing-mode:tb-rl;
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-o-transform: rotate(90deg);
+	white-space:nowrap;
+	display:block;
+	bottom:0;
+	width:20px;
+	height:20px;
+	/*font-family: ‘Trebuchet MS’, Helvetica, sans-serif;*/
+	font-size:24px;
+	font-weight:normal;
+	float: left;
+	margin-top: 10px;
+}
+
+.col-sm-6 img
+{
+	width: 43.5%;
+	font-size: 22px;
 }
