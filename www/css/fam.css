@@ -153,7 +153,12 @@ code
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus
 {
 	background-color: #602826;
-	color: #FBFBFB;
+	color: #FAFAFA;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a
+{
+	color: #FAFAFA;
 }
 
 .dropdown-menu
