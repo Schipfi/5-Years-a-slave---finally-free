@@ -156,6 +156,11 @@ code
 	color: #FAFAFA;
 }
 
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus
+{
+	background-color: #802826;
+}
+
 .navbar-default .navbar-nav .open .dropdown-menu>li>a
 {
 	color: #FAFAFA;
