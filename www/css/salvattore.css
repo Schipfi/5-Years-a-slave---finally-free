@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+@media screen and (min-width: 1px) and (max-width: 767px){
+    #columns[data-columns]::before {
+        content: '2 .col-xs-6';
+    }
+}
+@media screen and (min-width:768px) and (max-width: 991px){
+    #columns[data-columns]::before {
+        content: '3 .col-sm-4';
+    }
+}
+@media screen and (min-width:992px) and (max-width: 9999px){
+    #columns[data-columns]::before {
+        content: '4 .col-md-3';
+    }
+}
+
+.sponsorcontainer
+{
+	max-width: 390px;
+}
+
+.sponsorcontainer > img
+{
+   	max-width: 370px;
+   	margin-bottom: 10px;
+}
+
+#grid > div > div.panel-body > img
+{
+	max-width: 385px;
+	height: auto;
+}
+
+#grid[data-columns]::before {
+	content: '3 .column.size-1of3';
+}
+
+/* These are the classes that are going to be applied: */
+.column { float: left; }
+.size-1of3 { width: 33.333%; }

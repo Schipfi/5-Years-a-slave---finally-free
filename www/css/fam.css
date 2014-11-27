@@ -194,16 +194,15 @@ hr
 	box-shadow: none;
 }
 
-.timetable
+.infotable
 {
 	background: rgba(46, 51, 56, 0.2)!important;
 	border: transparent;
 	box-shadow: none;
-	font-size: 14pt;
-	font-weight: lighter;
+	/*font-size: 14pt;*/
 }
 
-.timetable-head
+.infotable-head
 {
 	background: rgba(71, 44, 37, 0.2)!important;
 	border: transparent;
@@ -212,7 +211,6 @@ hr
 
 p.css-vertical-text {
 	color:#333;
-	border:0px solid red;
 	writing-mode:tb-rl;
 	-webkit-transform:rotate(90deg);
 	-moz-transform:rotate(90deg);
@@ -233,4 +231,11 @@ p.css-vertical-text {
 {
 	width: 43.5%;
 	font-size: 22px;
+}
+
+.smallprint
+{
+	font-size: 7pt;
+	background: none;
+	opacity: 0.8;
 }
