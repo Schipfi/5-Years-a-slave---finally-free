@@ -1,0 +1,128 @@
+
+<div class="row">
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/01_0.jpg" /><img src="./img/schuelerfotos/5 ET/01_1.jpg" />
+		<p class="css-vertical-text">Erwin Buchner</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/02_0.jpg" /><img src="./img/schuelerfotos/5 ET/02_1.jpg" />
+		<p class="css-vertical-text">Alexander Eder</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/03_0.jpg" /><img src="./img/schuelerfotos/5 ET/03_1.jpg" />
+		<p class="css-vertical-text">Andreas Eppensteiner</p>
+	</div>
+<!-- </div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/04_0.jpg" /><img src="./img/schuelerfotos/5 ET/04_1.jpg" />
+		<p class="css-vertical-text">Gabriel Fischer</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/05_0.jpg" /><img src="./img/schuelerfotos/5 ET/05_1.jpg" />
+		<p class="css-vertical-text">Maximilian Foidl</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/06_0.jpg" /><img src="./img/schuelerfotos/5 ET/06_1.jpg" />
+		<p class="css-vertical-text">Michael Frank</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/07_0.jpg" /><img src="./img/schuelerfotos/5 ET/07_1.jpg" />
+		<p class="css-vertical-text">Philipp Herzog</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/08_0.jpg" /><img src="./img/schuelerfotos/5 ET/08_1.jpg" />
+		<p class="css-vertical-text">Markus Kals</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/09_0.jpg" /><img src="./img/schuelerfotos/5 ET/09_1.jpg" />
+		<p class="css-vertical-text">Andreas Kranawendter</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/10_0.jpg" /><img src="./img/schuelerfotos/5 ET/10_1.jpg" />
+		<p class="css-vertical-text">Simon Kysela</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/11_0.jpg" /><img src="./img/schuelerfotos/5 ET/11_1.jpg" />
+		<p class="css-vertical-text">Stefan Lechner</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/12_0.jpg" /><img src="./img/schuelerfotos/5 ET/12_1.jpg" />
+		<p class="css-vertical-text">Christoph Lemberger</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/13_0.jpg" /><img src="./img/schuelerfotos/5 ET/13_1.jpg" />
+		<p class="css-vertical-text">Thomas Magg</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/14_0.jpg" /><img src="./img/schuelerfotos/5 ET/14_1.jpg" />
+		<p class="css-vertical-text">Chrsitph Neumayr</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/15_0.jpg" /><img src="./img/schuelerfotos/5 ET/15_1.jpg" />
+		<p class="css-vertical-text">Dominik Schnitzinger</p>
+	</div>
+<!--</div>
+
+<div class="row">
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/01_0.jpg" /><img src="./img/schuelerfotos/5 ET/01_1.jpg" />
+		<p class="css-vertical-text"></p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/02_0.jpg" /><img src="./img/schuelerfotos/5 ET/02_1.jpg" />
+		<p class="css-vertical-text"></p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/03_0.jpg" /><img src="./img/schuelerfotos/5 ET/03_1.jpg" />
+		<p class="css-vertical-text">Kenan Huskic</p>
+	</div>
+<!-- </div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/16_0.jpg" /><img src="./img/schuelerfotos/5 ET/16_1.jpg" />
+		<p class="css-vertical-text">Micahel Schobersteiner</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/17_0.jpg" /><img src="./img/schuelerfotos/5 ET/17_1.jpg" />
+		<p class="css-vertical-text">Thomas Schwarz</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/18_0.jpg" /><img src="./img/schuelerfotos/5 ET/18_1.jpg" />
+		<p class="css-vertical-text">Jakob Wunderer</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/19_0.jpg" /><img src="./img/schuelerfotos/5 ET/19_1.jpg" />
+		<p class="css-vertical-text">Miachel Wurm</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5 ET/20_0.jpg" /><img src="./img/schuelerfotos/5 ET/20_1.jpg" />
+		<p class="css-vertical-text">Enes Yilmaz</p>
+	</div>
+<!--</div>

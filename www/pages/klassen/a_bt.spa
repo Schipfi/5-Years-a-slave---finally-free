@@ -1,0 +1,133 @@
+
+<div class="row">
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/01_0.jpg" /><img src="./img/schuelerfotos/5A BT/01_1.jpg" />
+		<p class="css-vertical-text">Victoria Bauhofer</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/02_0.jpg" /><img src="./img/schuelerfotos/5A BT/02_1.jpg" />
+		<p class="css-vertical-text">Bernhard Bernsteiner</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/03_0.jpg" /><img src="./img/schuelerfotos/5A BT/03_1.jpg" />
+		<p class="css-vertical-text">Sabrina Eder</p>
+	</div>
+<!-- </div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/04_0.jpg" /><img src="./img/schuelerfotos/5A BT/04_1.jpg" />
+		<p class="css-vertical-text">Markus Feger</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/05_0.jpg" /><img src="./img/schuelerfotos/5A BT/05_1.jpg" />
+		<p class="css-vertical-text">Andreas Harlander</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/06_0.jpg" /><img src="./img/schuelerfotos/5A BT/06_1.jpg" />
+		<p class="css-vertical-text">Christoph Höfelsauer</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/07_0.jpg" /><img src="./img/schuelerfotos/5A BT/07_1.jpg" />
+		<p class="css-vertical-text">Maria Kaiser</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/08_0.jpg" /><img src="./img/schuelerfotos/5A BT/08_1.jpg" />
+		<p class="css-vertical-text">Ali Kaya</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/09_0.jpg" /><img src="./img/schuelerfotos/5A BT/09_1.jpg" />
+		<p class="css-vertical-text">Daniel Lucic</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/10_0.jpg" /><img src="./img/schuelerfotos/5A BT/10_1.jpg" />
+		<p class="css-vertical-text">Marco Neumayr</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/11_0.jpg" /><img src="./img/schuelerfotos/5A BT/11_1.jpg" />
+		<p class="css-vertical-text">Marco Obwaller</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/12_0.jpg" /><img src="./img/schuelerfotos/5A BT/12_1.jpg" />
+		<p class="css-vertical-text">Lela Petrovic</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/13_0.jpg" /><img src="./img/schuelerfotos/5A BT/13_1.jpg" />
+		<p class="css-vertical-text">Nadine Pfuner</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/14_0.jpg" /><img src="./img/schuelerfotos/5A BT/14_1.jpg" />
+		<p class="css-vertical-text">Robin Plasser</p>
+	</div>
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/15_0.jpg" /><img src="./img/schuelerfotos/5A BT/15_1.jpg" />
+		<p class="css-vertical-text">Simon Scharler</p>
+	</div>
+<!--</div>
+
+<div class="row">
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/01_0.jpg" /><img src="./img/schuelerfotos/5A BT/01_1.jpg" />
+		<p class="css-vertical-text">Phillip Bergmann</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/02_0.jpg" /><img src="./img/schuelerfotos/5A BT/02_1.jpg" />
+		<p class="css-vertical-text">Dominik Gintsberger</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/03_0.jpg" /><img src="./img/schuelerfotos/5A BT/03_1.jpg" />
+		<p class="css-vertical-text">Kenan Huskic</p>
+	</div>
+<!-- </div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/16_0.jpg" /><img src="./img/schuelerfotos/5A BT/16_1.jpg" />
+		<p class="css-vertical-text">Lukas Schmidt</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/17_0.jpg" /><img src="./img/schuelerfotos/5A BT/17_1.jpg" />
+		<p class="css-vertical-text">Hannes Schweinberger</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/18_0.jpg" /><img src="./img/schuelerfotos/5A BT/18_1.jpg" />
+		<p class="css-vertical-text">Melanie Steiner</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/19_0.jpg" /><img src="./img/schuelerfotos/5A BT/19_1.jpg" />
+		<p class="css-vertical-text">Luka Vujicic</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/20_0.jpg" /><img src="./img/schuelerfotos/5A BT/20_1.jpg" />
+		<p class="css-vertical-text">Christina Widmann</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/5A BT/21_0.jpg" /><img src="./img/schuelerfotos/5A BT/21_1.jpg" />
+		<p class="css-vertical-text">Manuel Wieser</p>
+	</div>
+<!--</div>

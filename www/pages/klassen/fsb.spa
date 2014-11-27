@@ -1,0 +1,39 @@
+<div class="row">
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/01_0.jpg" /><img src="./img/schuelerfotos/4 FSB/01_1.jpg" />
+		<p class="css-vertical-text">Lukas Hauser</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/02_0.jpg" /><img src="./img/schuelerfotos/4 FSB/02_1.jpg" />
+		<p class="css-vertical-text">Fabian Herzog</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/03_0.jpg" /><img src="./img/schuelerfotos/4 FSB/03_1.jpg" />
+		<p class="css-vertical-text">Martin Herzog</p>
+	</div>
+<!-- </div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/04_0.jpg" /><img src="./img/schuelerfotos/4 FSB/04_1.jpg" />
+		<p class="css-vertical-text">Christoph Jungl</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/05_0.jpg" /><img src="./img/schuelerfotos/4 FSB/05_1.jpg" />
+		<p class="css-vertical-text">Rudolf Lengauer</p>
+	</div>
+
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/06_0.jpg" /><img src="./img/schuelerfotos/4 FSB/06_1.jpg" />
+		<p class="css-vertical-text">Alois Loder</p>
+	</div>
+<!--</div>
+
+<div class="row"> -->
+	<div class="col-md-4 col-sm-6 pupil panel panel-default">
+		<img src="./img/schuelerfotos/4 FSB/07_0.jpg" /><img src="./img/schuelerfotos/4 FSB/07_1.jpg" />
+		<p class="css-vertical-text">Rene Reichholf</p>
+	</div>
