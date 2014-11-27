@@ -37,7 +37,7 @@
 						<span class="sr-only">Navigation umschalten</span>
 						<span class="glyphicon glyphicon-list"></span>
 					</button>
-					<a class="navbar-brand" href="."><img src="img/logo.png" style="max-height: 50px; margin-top: -15px;"/></a>
+					<a class="navbar-brand" href="."><img src="img/logo_white.png" style="max-height: 50px; margin-top: -15px;"/></a>
 				</div>
 
 				<div id="topnav" class="collapse navbar-collapse">
