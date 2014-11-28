@@ -9,12 +9,14 @@
 
 	require_once('config/global.cfg');
 	require_once('config/menu/menu.cfg');
+
+	$web_root = "http://".$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF'])."/";
 ?>
 
 <!DOCTYPE html>
 <html lang="de">
 	<head>
-		<base href="<?php echo WEBROOT; ?>" />
+		<base href="<?php echo $web_root; ?>" />
 		<noscript><meta http-equiv="refresh" content="0; url=nojs" /></noscript>
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/bootstrap.js"></script>

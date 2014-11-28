@@ -3,7 +3,8 @@
     <div class="panel panel-default infotable">
       <div class="panel-heading infotable-head">
         <h3 class="panel-title">
-        Eintrittspreise<span class="glyphicon glyphicon-euro" style="float: right;"></span></h3>
+        Eintrittspreise<span class="glyphicon glyphicon-euro" style="float: right;"></span>
+        </h3>
       </div>
         <table class="table">
           <tr>
@@ -22,11 +23,21 @@
             <td>€ 25,-</td>
           </tr>
         </table>
-      <div class="panel-footer smallprint">
+      <div class="panel-body smallprint">
         Alle Angaben ohne Gewähr. Umtausch ausgeschlossen.
       </div>
     </div>
-	</div>
+
+    <div class="panel panel-default infotable">
+      <div class="panel-heading infotable-head">
+        <h3 class="panel-title">
+        Garderobe<span class="glyphicon glyphicon-ok" style="float: right;"></span></h3>
+      </div>
+      <div class="panel-body">
+        Abendkleidung oder Tracht obligat
+      </div>
+    </div>
+  </div>
 
   <div class="col-md-6">
     <div class="panel panel-default infotable">
@@ -36,8 +47,8 @@
       </div>
       <div class="panel-body">
         <img width="100%" src="./img/tma_logo.jpg"/>
-        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, odio vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, ante tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
-        <a href="http://tmo-live.com/">Mehr erfahren »</a>
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
+        <a href="http://tmo-live.com/" target="_blank">Mehr erfahren »</a>
       </div>
     </div>
   </div>
@@ -73,6 +84,18 @@
           <td>Mitternachtseinlage</td>
         </tr>
       </table>
+    </div>
+
+
+  <div class="panel panel-default infotable">
+    <div class="panel-heading infotable-head">
+      <h3 class="panel-title">
+        Weitere Hinweise<span class="glyphicon glyphicon-warning-sign" style="float: right;"></span></h3>
+      </div>
+      <div class="panel-body">
+        Einlass ab 16 Jahren<br/>
+        Es gilt das JuSchG
+      </div>
     </div>
   </div>
 </div>

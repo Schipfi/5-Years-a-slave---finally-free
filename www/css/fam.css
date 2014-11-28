@@ -195,6 +195,21 @@ code
 	color: #FAFAFA;
 }
 
+a:hover
+{
+	color: #702826;
+}
+
+a:active, a:visited
+{
+	color: #802826;
+}
+
+a
+{
+	color: #602826;
+}
+
 hr
 {
   -moz-border-bottom-colors: none;
