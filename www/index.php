@@ -64,29 +64,6 @@
 				<img src="./img/loading.svg" border="0" />
 				<div class="slow" style="display: none">Einen Moment bitte...</div>
 		</div>
-
-		<nav id="footer" class="navbar navbar-default navbar-fixed-bottom" role="navigation">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bottomnav">
-						<span class="sr-only">Navigation umschalten</span>
-						<span class="glyphicon glyphicon-list"></span>
-					</button>
-				</div>
-				<div id="bottomnav" class="collapse navbar-collapse">
-					<ul class="nav navbar-nav">
-					<?php
-						handleMenu($menu, 'bottom', 'left');
-					?>
-					</ul>
-					<ul class="nav navbar-nav navbar-right">
-					<?php
-						handleMenu($menu, 'bottom', 'right');
-					?>
-					</ul>
-				</div>
-			</div>
-		</nav>
 	</body>
 </html>
 

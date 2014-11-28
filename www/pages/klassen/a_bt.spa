@@ -1,5 +1,9 @@
-
 <div class="row">
+	<div class="col-md-4 col-sm-6 panel panel-default">
+		<img src="./img/klassenfotos/5A.jpg" class="group" />
+		<p class="css-vertical-text">Hochbau</p>
+	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5A BT/01_0.jpg" /><img src="./img/schuelerfotos/5A BT/01_1.jpg" />
 		<p class="css-vertical-text">Victoria Bauhofer</p>
@@ -79,26 +83,7 @@
 		<img src="./img/schuelerfotos/5A BT/15_0.jpg" /><img src="./img/schuelerfotos/5A BT/15_1.jpg" />
 		<p class="css-vertical-text">Simon Scharler</p>
 	</div>
-<!--</div>
 
-<div class="row">
-	<div class="col-md-4 col-sm-6 pupil panel panel-default">
-		<img src="./img/schuelerfotos/5A BT/01_0.jpg" /><img src="./img/schuelerfotos/5A BT/01_1.jpg" />
-		<p class="css-vertical-text">Phillip Bergmann</p>
-	</div>
-
-	<div class="col-md-4 col-sm-6 pupil panel panel-default">
-		<img src="./img/schuelerfotos/5A BT/02_0.jpg" /><img src="./img/schuelerfotos/5A BT/02_1.jpg" />
-		<p class="css-vertical-text">Dominik Gintsberger</p>
-	</div>
-
-	<div class="col-md-4 col-sm-6 pupil panel panel-default">
-		<img src="./img/schuelerfotos/5A BT/03_0.jpg" /><img src="./img/schuelerfotos/5A BT/03_1.jpg" />
-		<p class="css-vertical-text">Kenan Huskic</p>
-	</div>
-<!-- </div>
-
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5A BT/16_0.jpg" /><img src="./img/schuelerfotos/5A BT/16_1.jpg" />
 		<p class="css-vertical-text">Lukas Schmidt</p>
@@ -130,4 +115,3 @@
 		<img src="./img/schuelerfotos/5A BT/21_0.jpg" /><img src="./img/schuelerfotos/5A BT/21_1.jpg" />
 		<p class="css-vertical-text">Manuel Wieser</p>
 	</div>
-<!--</div>

@@ -25,9 +25,13 @@
 
 body
 {
-	background-image: url('../img/background.jpg');
-	background-repeat: no-repeat;
+	background-image: url('../img/background.png');
+	background-repeat: repeat;
 	background-attachment: fixed;
+}
+
+body::-webkit-scrollbar { 
+    display: none; 
 }
 
 .glyphicon
@@ -205,7 +209,7 @@ a:active, a:visited
 	color: #802826;
 }
 
-a
+a, a:link
 {
 	color: #602826;
 }
@@ -262,7 +266,6 @@ hr
 	background: rgba(46, 51, 56, 0.2)!important;
 	border: transparent;
 	box-shadow: none;
-	/*font-size: 14pt;*/
 }
 
 .infotable-head
@@ -301,4 +304,43 @@ p.css-vertical-text {
 	font-size: 7pt;
 	background: none;
 	opacity: 0.8;
+}
+
+.group
+{
+	width: 89% !important;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+@media all and (max-width: 640px) {
+	.pupil img
+	{
+		width: 40%;
+		height: auto;
+	}
+	p.css-vertical-text
+	{
+		font-size: 18px;
+	}
+}
+
+.navbar-toggle, .collapsed
+{
+	background-color: #702826;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
+{
+	background-color: #602826;
+}
+
+.navbar-default .navbar-text
+{
+	color: gray;
+}
+
+.dropdown-menu
+{
+	border-radius: 0px;
 }

@@ -3,7 +3,47 @@
 		<h1>Impressum</h1>
 		<hr />
 		<p>
-			Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+			<h4>Verantwortlich für den Inhalt:</h4>
+			Ballkomitee der HTL Saalfelden<br/>
+			Vorsitzender: David Sojer<br/>
+			Almerstraße 33<br/>
+			5760 Saalfelden am Steinernen Meer<br/>
+
+			<span class="glyphicon glyphicon-phone"></span> 0664 922 6295<br/>
+			<span class="glyphicon glyphicon-envelope"></span> <a href="mailto:ball2015@htl-saalfelden.at">ball2015@htl-saalfelden.at</a>
+		</p><br/>
+		<p>
+
+			<h4>Bankverbindung:</h4>
+			Raiffeisenbank Saalfelden<br/>
+			IBAN: AT38 3505 3000 0018 3566<br/>
+			BIC: RVSAAT2S053
+		</p><br/>
+		<p>
+
+			<h4>Bildernachweis:</h4>
+			Schülerfotos: Fabian Hutter<br/>
+			Klassenfotos: <a href="http://fotojelinek.at" target="_blank">Foto Jelinek Saalfelden</a>
+		</p><br/>
+		
+			<h4>Haftungsausschluss:</h4>
+		<p>
+			<strong>Haftung für Inhalte:</strong>
+			Trotz unserer Bemühungen um Aktualität, Vollständigkeit und Richtigkeit der Inhalte kann hierfür keine Garantie übernommen werden.
+			Nach Bekanntwerdung von Rechtsverstößen werden die entsprechenden Inhalte umgehend entfernt. Eine dahingehende Haftung wird jedoch erst ab dem Zeitpunkt der Kenntnis konkreter Rechtsverletzungen übernommen.
+		</p>
+
+		<p>
+			<strong>Haftung für Links:</strong>
+			Einige Links unserer Seiten verweisen auf Webpräsenzen Dritter. Die Inhalte dieser Seiten entziehen sich unseres Einflusses. Deshalb ist für die Richtigkeit der Inhalte immer der Betreiber der jeweiligen Webseite verantwortlich. Aus diesem Grund können wir diesbezüglich keinerlei Haftung übernehmen. Falls uns Rechtsverletzungen bekannt werden, werden die entsprechenden Links sofort entfernt.
+		</p>
+		<p>
+			<strong>Urheberrecht:</strong>
+			Die durch den Betreiber dieser Seite erstellten Inhalte und Werke auf diesen Webseiten unterliegen dem österreichischen Urheberrecht. Sämtliche Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Kopien von diesen Seiten sind weder für den privaten Bereich noch für kommerzielle Zwecke gestattet.
+		</p>
+		<p>
+			<strong>Rechtswirksamkeit:</strong>
+			Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwirksam sein oder werden, bleiben die übrigen Regelungen in ihrem Inhalt und ihrer Gültigkeit hiervon unberührt.
 		</p>
 	</div>
 </div>

@@ -1,5 +1,9 @@
-
 <div class="row">
+	<div class="col-md-4 col-sm-6 panel panel-default">
+		<img src="./img/klassenfotos/4FSC.jpg" class="group" />
+		<p class="css-vertical-text">Computertechnik</p>
+	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/01_0.jpg" /><img src="./img/schuelerfotos/4 FSC/01_1.jpg" />
 		<p class="css-vertical-text">Phillip Bergmann</p>
@@ -14,9 +18,7 @@
 		<img src="./img/schuelerfotos/4 FSC/03_0.jpg" /><img src="./img/schuelerfotos/4 FSC/03_1.jpg" />
 		<p class="css-vertical-text">Kenan Huskic</p>
 	</div>
-<!-- </div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/04_0.jpg" /><img src="./img/schuelerfotos/4 FSC/04_1.jpg" />
 		<p class="css-vertical-text">Ralph Klabacher</p>
@@ -31,9 +33,7 @@
 		<img src="./img/schuelerfotos/4 FSC/06_0.jpg" /><img src="./img/schuelerfotos/4 FSC/06_1.jpg" />
 		<p class="css-vertical-text">Lukas Oberhofer</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/07_0.jpg" /><img src="./img/schuelerfotos/4 FSC/07_1.jpg" />
 		<p class="css-vertical-text">Dominik Perfler</p>
@@ -48,9 +48,7 @@
 		<img src="./img/schuelerfotos/4 FSC/09_0.jpg" /><img src="./img/schuelerfotos/4 FSC/09_1.jpg" />
 		<p class="css-vertical-text">Daniel Rainbacher</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/10_0.jpg" /><img src="./img/schuelerfotos/4 FSC/10_1.jpg" />
 		<p class="css-vertical-text">Christoph Schaidreiter</p>
@@ -60,17 +58,17 @@
 		<img src="./img/schuelerfotos/4 FSC/11_0.jpg" /><img src="./img/schuelerfotos/4 FSC/11_1.jpg" />
 		<p class="css-vertical-text">Lukas Schipflinger</p>
 	</div>
+	
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/12_0.jpg" /><img src="./img/schuelerfotos/4 FSC/12_1.jpg" />
 		<p class="css-vertical-text">Thomas Streitberger</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/13_0.jpg" /><img src="./img/schuelerfotos/4 FSC/13_1.jpg" />
 		<p class="css-vertical-text">Jakob Tomasi</p>
 	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/4 FSC/14_0.jpg" /><img src="./img/schuelerfotos/4 FSC/14_1.jpg" />
 		<p class="css-vertical-text">Wolfgang Vitzthum</p>

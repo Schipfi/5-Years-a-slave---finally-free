@@ -4,33 +4,29 @@ $images = scandir(IMG_DIR . 'sponsors');
 $count = 0;
 
 
-echo '<div id="grid" data-columns>';
+echo '<div class="row">';
 
 foreach($images as $image)
 {
-	if($count == 0)
-		echo '<div class="column size-1of3">';
+	//if($count == 0)
+		echo '<div class="col-md-4">';
 
-	
 	if($image != '.' && $image != '..')
 	{
 		echo '
 		<div class="sponsorcontainer">
 			<img src="img/sponsors/' . $image . '" alt="Sponsor" />
-		</div> ';
-
-		
+		</div> ';		
 	}
 
 	$count++;
 
-	if($count == 2)
-	{
+	//if($count == 2)
+	//{
 		$count = 0;
 		echo '</div>';
-	}
+	//}
 }
-
 
 echo "</div>";
 ?>

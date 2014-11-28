@@ -1,5 +1,9 @@
-
 <div class="row">
+	<div class="col-md-4 col-sm-6 panel panel-default">
+		<img src="./img/klassenfotos/5B.jpg" class="group" />
+		<p class="css-vertical-text">Tiefbau</p>
+	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/01_0.jpg" /><img src="./img/schuelerfotos/5B BT/01_1.jpg" />
 		<p class="css-vertical-text">Verena Burgschwaiger</p>
@@ -14,9 +18,7 @@
 		<img src="./img/schuelerfotos/5B BT/03_0.jpg" /><img src="./img/schuelerfotos/5B BT/03_1.jpg" />
 		<p class="css-vertical-text">Thomas Dreier</p>
 	</div>
-<!-- </div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/04_0.jpg" /><img src="./img/schuelerfotos/5B BT/04_1.jpg" />
 		<p class="css-vertical-text">Michael Egger</p>
@@ -31,9 +33,7 @@
 		<img src="./img/schuelerfotos/5B BT/06_0.jpg" /><img src="./img/schuelerfotos/5B BT/06_1.jpg" />
 		<p class="css-vertical-text">Michael Gruber</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/07_0.jpg" /><img src="./img/schuelerfotos/5B BT/07_1.jpg" />
 		<p class="css-vertical-text">Maximilian Landegger</p>
@@ -48,9 +48,7 @@
 		<img src="./img/schuelerfotos/5B BT/09_0.jpg" /><img src="./img/schuelerfotos/5B BT/09_1.jpg" />
 		<p class="css-vertical-text">Andrea Pesl</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/10_0.jpg" /><img src="./img/schuelerfotos/5B BT/10_1.jpg" />
 		<p class="css-vertical-text">Tobias Prommegger</p>
@@ -60,23 +58,24 @@
 		<img src="./img/schuelerfotos/5B BT/11_0.jpg" /><img src="./img/schuelerfotos/5B BT/11_1.jpg" />
 		<p class="css-vertical-text">Niklas Schellhorn</p>
 	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/12_0.jpg" /><img src="./img/schuelerfotos/5B BT/12_1.jpg" />
 		<p class="css-vertical-text">Joachim Schlatter</p>
 	</div>
-<!--</div>
 
-<div class="row"> -->
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/13_0.jpg" /><img src="./img/schuelerfotos/5B BT/13_1.jpg" />
 		<p class="css-vertical-text">Maria Schranz</p>
 	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/14_0.jpg" /><img src="./img/schuelerfotos/5B BT/14_1.jpg" />
 		<p class="css-vertical-text">Maximilian Slowiok</p>
 	</div>
+
 	<div class="col-md-4 col-sm-6 pupil panel panel-default">
 		<img src="./img/schuelerfotos/5B BT/15_0.jpg" /><img src="./img/schuelerfotos/5B BT/15_1.jpg" />
 		<p class="css-vertical-text">David Sojer</p>
 	</div>
-<!--</div>
+</div>
