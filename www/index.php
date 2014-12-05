@@ -22,13 +22,11 @@
 		<script type="text/javascript" src="js/bootstrap.js"></script>
 		<script type="text/javascript" src="js/qr.js"></script>
 		<script type="text/javascript" src="js/fam.js"></script>
-		<script src="js/salvattore.js"></script> 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="stylesheet" href="css/bootstrap.css" />
 		<link rel="stylesheet" href="css/fam.css" />
-		<link rel="stylesheet" type="text/css" href="css/salvattore.css" />
 		<title>5 Years a Slave</title>
 	</head>
 	<body>

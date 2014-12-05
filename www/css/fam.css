@@ -349,3 +349,32 @@ p.css-vertical-text {
 {
 	padding-left: 10px;
 }
+
+.sponsorcontainer {
+    -moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;
+    /*width: 900px;*/
+}
+
+.sponsorcontainer div
+{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 15px;
+}​
+
+.sponsorimg
+{
+	width: 100% !important;
+	height: auto !important;
+}
+
+#page > div > div:nth-child(17) > img
+{
+	max-width: 100%;
+	height: auto;
+}

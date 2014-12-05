@@ -1,36 +1,22 @@
-<!-- 
 <?php
 $images = scandir(IMG_DIR . 'sponsors');
-$count = 0;
 
-
-echo '<div class="row">';
+echo '<div class="sponsorcontainer">';
 
 foreach($images as $image)
 {
-	//if($count == 0)
-		echo '<div class="col-md-4">';
-
 	if($image != '.' && $image != '..')
 	{
 		echo '
-		<div class="sponsorcontainer">
-			<img src="img/sponsors/' . $image . '" alt="Sponsor" />
+		<div>
+			<img class="sponsorimg" src="img/sponsors/' . $image . '" alt="Sponsor" />
 		</div> ';		
 	}
-
-	$count++;
-
-	//if($count == 2)
-	//{
-		$count = 0;
-		echo '</div>';
-	//}
 }
 
 echo "</div>";
-?> -->
-
+?>
+<!--
 <?php
 	echo '
 		<div class="row">
@@ -184,4 +170,4 @@ echo "</div>";
 			</div>
 		</div>
 	';
-?>
+?>-->
