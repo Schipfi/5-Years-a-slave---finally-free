@@ -344,3 +344,8 @@ p.css-vertical-text {
 {
 	border-radius: 0px;
 }
+
+.spanning
+{
+	padding-left: 10px;
+}
