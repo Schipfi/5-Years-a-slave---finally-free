@@ -20,12 +20,13 @@
 		<noscript><meta http-equiv="refresh" content="0; url=nojs" /></noscript>
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/bootstrap.js"></script>
-		<script type="text/javascript" src="js/qr.js"></script>
+		<script type="text/javascript" src="js/salvattore.js"></script>
 		<script type="text/javascript" src="js/fam.js"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="stylesheet" href="css/bootstrap.css" />
+		<link rel="stylesheet" href="css/salvattore.css" />
 		<link rel="stylesheet" href="css/fam.css" />
 		<title>5 Years a Slave</title>
 	</head>

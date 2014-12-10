@@ -357,24 +357,65 @@ p.css-vertical-text {
     -webkit-column-gap: 10px;
     column-count: 3;
     column-gap: 10px;
-    /*width: 900px;*/
+    max-width: 100%;
 }
 
 .sponsorcontainer div
 {
     display: inline-block;
-    width: 100%;
+    max-width: 100%;
     margin-bottom: 15px;
 }​
 
 .sponsorimg
 {
-	width: 100% !important;
+	max-width: 100% !important;
 	height: auto !important;
 }
 
-#page > div > div:nth-child(17) > img
+@media (max-width: 12cm) {
+.sponsorcontainer
+{
+    -moz-column-count: 1;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 10px;
+    column-count: 1;
+    column-gap: 10px;
+    max-width: 100%;
+}
+
+.sponsorcontainer div
 {
 	max-width: 100%;
 	height: auto;
+}
+.sponsorimg
+{
+	max-width: 100% !important;
+	height: auto !important;
+}
+}
+
+@media (min-width: 12cm) and (max-width: 25cm) {
+.sponsorcontainer
+{
+    -moz-column-count: 2;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 10px;
+    column-count: 2;
+    column-gap: 10px;
+}
+
+.sponsorimg, .sponsorcontainer, .sponsorcontainer div
+{
+	max-width: 100% !important;
+	height: auto !important;
+}
+}
+
+.entertainment-heading > h3
+{
+	margin-top: 0px;
 }

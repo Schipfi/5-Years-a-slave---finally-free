@@ -45,10 +45,17 @@
         <h3 class="panel-title">
         Show & Unterhaltung<span class="glyphicon glyphicon-music" style="float: right;"></span></h3>
       </div>
-      <div class="panel-body">
+      <div class="panel-body entertainment-heading">
+        <h3>The Martini Outfit</h3>
         <img width="100%" src="./img/tma_logo.jpg"/>
         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
         <a href="http://tmo-live.com/" target="_blank">Mehr erfahren »</a>
+        <hr/>
+
+        <h3>DJ Chris Armada</h3>
+        <img width="100%" src="./img/dj_carmada.jpg"/>
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
+        <a href="http://www.chrisarmada.at" target="_blank">Mehr erfahren »</a>
       </div>
     </div>
   </div>
@@ -90,11 +97,11 @@
   <div class="panel panel-default infotable">
     <div class="panel-heading infotable-head">
       <h3 class="panel-title">
-        Weitere Hinweise<span class="glyphicon glyphicon-warning-sign" style="float: right;"></span></h3>
+        Teilnahmebedingungen<span class="glyphicon glyphicon-warning-sign" style="float: right;"></span></h3>
       </div>
-      <div class="panel-body">
-        Einlass ab 16 Jahren<br/>
-        Es gilt das JuSchG
+      <div class="panel-body" style="text-align: justify; font-size: 8pt;">
+        Eintritt für Kinder und Jugendliche unter 16 Jahren ist nur in Begleitung eines Erziehungsberechtigten möglich. Stark alkoholisierten Personen wird der Einlass verweigert bzw. können von der Veranstaltung verwiesen werden. Die Veranstalter übernehmen keine Haftung für Hör- und Gesundheitsschäden die aufgrund von zB. zu lauter Musik entstehen können. Den Anweisungen der Veranstaltungsorganisation und deren Vertretern ist Folge zu leisten.
+        Zuwiderhandlungen werden mit dem Verweis von der Veranstaltung geahnded. Anspruch auf Rückerstattung des Eintrittspreises gilt nur in Sonderfällen wie zB. ein Nichtstattfinden der Veranstaltung. Mit dem Kauf der Eintrittskarte erklären Sie sich mit diesen Teilnahmebedingungen einverstanden und stimmen zu, dass bildliche Darstellungen Ihrer Person ohne Vergütung und ohne Einschränkungen erstellt und verwendet werden können.
       </div>
     </div>
   </div>
