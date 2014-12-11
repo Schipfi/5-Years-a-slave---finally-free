@@ -3,7 +3,24 @@
 		<h1>Herzlich Willkommen!</h1>
 		<hr />
 		<p>
-			Wir laden Sie herzlich zu unserem Matura/Abschlussball in das Congress Center Saalfelden ein. 
+			Wir laden Sie herzlich zu unserem Matura/Abschlussball im Congress Saalfelden ein.<br/>
 		</p>
+	</div>
+	<div class="col-md-6">
+	    <div class="panel panel-default infotable">
+	      <div class="panel-heading infotable-head">
+	        <h3 class="panel-title">
+	        Wann und wo?<span class="glyphicon glyphicon-map-marker" style="float: right;"></span></h3>
+	      </div>
+	      <div class="panel-body">
+	        <p style="font-size: 20pt; color: #653122; margin-bottom: 0px;">17. Januar 2015<p/>
+	        <p style="font-size: 14pt; color: #653122; margin-top: -20px;">Congress Saalfelden</p>
+	      </div>
+	      <div class="panel-footer" style="padding: 0px;">
+	      	<div class="flexible-container map">
+	      		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2699.222020107905!2d12.845837999999995!3d47.427113999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4776e343333dd795%3A0xf5f1f8d9951fbe76!2sCongress+und+Stadtmarketing+Saalfelden+GmbH!5e0!3m2!1sde!2s!4v1418291026975" style="border:0"></iframe>
+	      	</div>
+	      </div>
+	    </div>
 	</div>
 </div>
