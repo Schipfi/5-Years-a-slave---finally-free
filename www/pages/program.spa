@@ -47,15 +47,13 @@
       </div>
       <div class="panel-body entertainment-heading">
         <h3>The Martini Outfit</h3>
-        <img width="100%" src="./img/tma_logo.jpg"/>
-        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
-        <a href="http://tmo-live.com/" target="_blank">Mehr erfahren »</a>
+        <img width="100%" src="./img/tma_logo.jpg"/><br/><br/>
+        <a href="http://tmo-live.com/" target="_blank">Zur Webseite »</a>
         <hr/>
 
         <h3>Chris Armada</h3>
-        <img width="100%" src="./img/dj_carmada.jpg"/>
-        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eget elit nibh. In mattis metus ac fermentum semper. Ut tristique porttitor fringilla. Praesent ut consequat velit, id egestas sapien. Morbi vel nisi cursus mauris tempor elementum. Aliquam enim odio, congue lacinia eros eu, tincidunt vehicula est. Morbi porta, vitae finibus gravida, dui sapien tincidunt mauris, ac faucibus odio turpis sed ligula. Pellentesque semper, nibh at sagittis ornare, tellus malesuada urna, a tincidunt arcu ante tristique arcu. Nunc sem urna, vulputate et tellus blandit.
-        <a href="http://www.chrisarmada.at" target="_blank">Mehr erfahren »</a>
+        <img width="100%" src="./img/dj_carmada.jpg"/><br/><br/>
+        <a href="http://www.chrisarmada.at" target="_blank">Zur Webseite »</a>
       </div>
     </div>
   </div>

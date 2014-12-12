@@ -10,7 +10,8 @@
 	require_once('config/global.cfg');
 	require_once('config/menu/menu.cfg');
 
-	$web_root = "http://".$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF'])."/";
+	//$web_root = "http://".$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF'])."/";
+	$web_root = "http://ball.htl-saalfelden.at/";
 ?>
 
 <!DOCTYPE html>
